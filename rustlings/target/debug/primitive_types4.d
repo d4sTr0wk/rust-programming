@@ -1,0 +1,1 @@
+/home/maxgarci/Documents/programming-learning/rust/rustlings/target/debug/primitive_types4: /home/maxgarci/Documents/programming-learning/rust/rustlings/exercises/04_primitive_types/primitive_types4.rs
